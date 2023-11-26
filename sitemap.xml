@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/post/placeholder-text/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/archives/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/css/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/html/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/markdown/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/markdown-syntax/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/syntax/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/themes/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/privacy/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/rich-content/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/shortcodes/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/text/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/math-typesetting/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/emoji/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/emoji-support/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/contact/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/contact/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/index/</loc>
+    <loc>http://127.0.0.1:5500/blogwebsite/tags/index/</loc>
   </url>
 </urlset>
